@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[likenoother]]></title>
         <description><![CDATA[likenoother]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/likenoother/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 15:27:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 15:27:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/likenoother/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a picture]]></title>
+            <description><![CDATA[<article><h1>This is a picture</h1><p>Do you like it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6adb59f54934a297875c95c4e338f66a6b6f6e2d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/likenoother/this-is-a-picture/index.html</link>
+            <guid isPermaLink="false">968728dc-7c83-4c48-a084-34a46b513b56</guid>
+            <pubDate>Wed, 06 Jan 2016 15:27:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0614c28-9201-4145-8c73-711cb006e78e.jpg">]]></description>
-            <link>undefined5374fbee-27b6-4f8b-81e7-2143256e195f/index.html</link>
+            <link>https://thegrid.ai/likenoother/5374fbee-27b6-4f8b-81e7-2143256e195f/index.html</link>
             <guid isPermaLink="false">5374fbee-27b6-4f8b-81e7-2143256e195f</guid>
             <pubDate>Wed, 06 Jan 2016 15:27:13 GMT</pubDate>
         </item>
